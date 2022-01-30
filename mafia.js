@@ -172,3 +172,6 @@ function response(room, msg, sender, isGroupChat, replier, ImageDB, packageName,
         replier.reply(list());
     }
 }
+
+
+/* mafia beta ver */
